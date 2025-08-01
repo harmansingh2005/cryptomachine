@@ -55,6 +55,7 @@ pip install pycryptodome
 ```bash
 python cryptomachine.py
 ```
+
 ---
 
 ## How To Use?
@@ -64,12 +65,12 @@ python cryptomachine.py
 - To decrypt, select a .kryp file, enter the original secret key, and click DECRYPT.
 - Click RESET to clear all input fields.
 - Click CANCEL anytime during processing to abort.
- -> 📝 Encrypted files will look like: myphoto.jpg.kryp
- -> 📝 Decrypted files will be saved as: myphoto__dekrypted__.jpg
+    - 📝 Encrypted files will look like: myphoto.jpg.kryp
+    - 📝 Decrypted files will be saved as: myphoto__dekrypted__.jpg
 
 ---
 
-##Security Notes
+## Security Notes
 
 - Uses AES in CFB mode (no padding required).
 - Secret key and salt are hashed with SHA256 to derive strong 256-bit and 128-bit keys.
@@ -78,7 +79,7 @@ python cryptomachine.py
   
 ---
 
-##Future Improvements
+## Future Improvements
 
 - Add drag-and-drop file support
 - Mask password field input

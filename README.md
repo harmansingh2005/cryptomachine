@@ -18,7 +18,7 @@
 
 ## Download
 
-[![Download CryptoMachine](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/yourusername/CryptoMachine/releases/latest)
+[![Download CryptoMachine](https://github.com/harmansingh2005/downloadcryptomachine)]
 
 > If you prefer to run the source code directly, follow the installation guide below.
 

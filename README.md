@@ -2,8 +2,6 @@
 
 **CryptoMachine** is a simple yet effective file encryption and decryption GUI tool built with Python and Tkinter. It allows you to securely encrypt any file using AES encryption with a user-defined secret key, and decrypt it later using the same key.
 
-![CryptoMachine GUI](assets/cryptomachine_screenshot.png) <!-- Optional: Replace with an actual image if available -->
-
 ---
 
 ## Features
@@ -53,7 +51,7 @@ pip install pycryptodome
 ```
 3. **Run the app**
 ```bash
-python cryptomachine.py
+python CryptoMachine.py
 ```
 
 ---

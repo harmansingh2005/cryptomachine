@@ -41,8 +41,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/harmansingh2005/CryptoMachine.git
-cd CryptoMachine
+gh repo clone harmansingh2005/downloadcryptomachine
 
 ```
 2. **Install dependencies**

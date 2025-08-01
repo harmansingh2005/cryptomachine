@@ -18,23 +18,11 @@
 
 ## Download
 
-[![Download CryptoMachine](https://github.com/harmansingh2005/downloadcryptomachine)]
+[![Download CryptoMachine](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/harmansingh2005/downloadcryptomachine)
 
 > If you prefer to run the source code directly, follow the installation guide below.
 
----
-
-## Demo
-
-### 🔐 Encrypting a File
-![Encrypting Demo](assets/encrypt_demo.gif)
-
-### 🔓 Decrypting a File
-![Decrypting Demo](assets/decrypt_demo.gif)
-
----
-
-## 🛠️ Installation (From Source)
+## 🛠️ Installation (CLI)
 
 > Python 3.6+ required
 
